@@ -32,3 +32,21 @@ li a:hover{
    color: red;
    background-color:white;
 }
+#kitsun e.png{
+  width: 10%;
+}
+.caixakitsune{
+  position: absolute;
+  top: 45px;
+  left: 0px;
+  width: 90%;
+  height: 150px;
+background-color: white;
+margin: 20px;
+border-width: 20px;
+border-color:black;
+border-style: solid;
+padding: 20px;
+display: flex;
+justify-content: center;
+}
